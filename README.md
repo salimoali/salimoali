@@ -41,9 +41,11 @@ Before the MSc I worked in **gas turbine efficiency** — which is where my inte
 ---
 ## Connect
 
-- 🌐 [salimoali.github.io](https://salimoali.github.io)
-- 🔬 [ORCID](https://orcid.org/0009-0000-9988-0332)
+## Connect
 
+- 🌐 [salimoali.github.io](https://salimoali.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/salimoali)
+  
 <!--
 **salimoali/salimoali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
